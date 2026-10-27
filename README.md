@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Santapec 👋
+# Soy Santapec 👋
 
 **Desarrollador de Software apasionado por construir soluciones eficientes, interactivas y de alto rendimiento.**
 
